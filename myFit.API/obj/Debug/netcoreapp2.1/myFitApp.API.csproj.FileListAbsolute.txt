@@ -1,0 +1,14 @@
+C:\Users\Martin\Desktop\myFit\myFit.API\bin\Debug\netcoreapp2.1\myFitApp.API.deps.json
+C:\Users\Martin\Desktop\myFit\myFit.API\bin\Debug\netcoreapp2.1\myFitApp.API.runtimeconfig.json
+C:\Users\Martin\Desktop\myFit\myFit.API\bin\Debug\netcoreapp2.1\myFitApp.API.runtimeconfig.dev.json
+C:\Users\Martin\Desktop\myFit\myFit.API\bin\Debug\netcoreapp2.1\myFitApp.API.dll
+C:\Users\Martin\Desktop\myFit\myFit.API\bin\Debug\netcoreapp2.1\myFitApp.API.pdb
+C:\Users\Martin\Desktop\myFit\myFit.API\obj\Debug\netcoreapp2.1\myFitApp.API.csprojAssemblyReference.cache
+C:\Users\Martin\Desktop\myFit\myFit.API\obj\Debug\netcoreapp2.1\myFitApp.API.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Desktop\myFit\myFit.API\obj\Debug\netcoreapp2.1\myFitApp.API.RazorAssemblyInfo.cache
+C:\Users\Martin\Desktop\myFit\myFit.API\obj\Debug\netcoreapp2.1\myFitApp.API.RazorAssemblyInfo.cs
+C:\Users\Martin\Desktop\myFit\myFit.API\obj\Debug\netcoreapp2.1\myFitApp.API.AssemblyInfoInputs.cache
+C:\Users\Martin\Desktop\myFit\myFit.API\obj\Debug\netcoreapp2.1\myFitApp.API.AssemblyInfo.cs
+C:\Users\Martin\Desktop\myFit\myFit.API\obj\Debug\netcoreapp2.1\myFitApp.API.RazorTargetAssemblyInfo.cache
+C:\Users\Martin\Desktop\myFit\myFit.API\obj\Debug\netcoreapp2.1\myFitApp.API.dll
+C:\Users\Martin\Desktop\myFit\myFit.API\obj\Debug\netcoreapp2.1\myFitApp.API.pdb
